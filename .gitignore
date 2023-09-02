@@ -5,3 +5,11 @@
 .terraform*
 terraform.tfstate
 terraform.tfstate.backup
+
+#web
+.metadata
+.settings
+.vscode
+.classpath
+.factorypath
+.project
