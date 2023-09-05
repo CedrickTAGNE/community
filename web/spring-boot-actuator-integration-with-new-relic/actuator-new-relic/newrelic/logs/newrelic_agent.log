@@ -1,0 +1,64 @@
+2023-09-04T15:35:27,379-0400 [24064 1] com.newrelic INFO: Writing to New Relic log file: F:\tutos\numerica_ideas\community\web\spring-boot-actuator-integration-with-new-relic\actuator-new-relic\newrelic\logs\newrelic_agent.log
+2023-09-04T15:35:27,380-0400 [24064 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 17.0.6
+2023-09-04T15:35:27,380-0400 [24064 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 17.0.6+10
+2023-09-04T15:35:27,380-0400 [24064 1] com.newrelic INFO: OS Windows 11 version 10.0 arch amd64
+2023-09-04T15:35:27,380-0400 [24064 1] com.newrelic INFO: Agent Host: SkyPC IP: 192.168.2.90
+2023-09-04T15:35:27,380-0400 [24064 1] com.newrelic INFO: New Relic Agent v8.5.0 is initializing...
+2023-09-04T15:35:27,835-0400 [24064 32] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2023-09-04T15:35:28,585-0400 [24064 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2023-09-04T15:35:28,921-0400 [24064 1] com.newrelic INFO: Setting audit_mode to false
+2023-09-04T15:35:29,102-0400 [24064 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is F:\tutos\numerica_ideas\community\web\spring-boot-actuator-integration-with-new-relic\actuator-new-relic\newrelic\.\newrelic.yml
+2023-09-04T15:35:29,105-0400 [24064 1] com.newrelic INFO: New Relic Agent v8.5.0 has started
+2023-09-04T15:35:29,105-0400 [24064 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7d907bac
+2023-09-04T15:35:29,106-0400 [24064 1] com.newrelic INFO: Premain startup complete in 2?369ms
+2023-09-04T15:35:29,107-0400 [24064 1] com.newrelic WARN: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2023-09-04T15:35:32,648-0400 [24064 1] com.newrelic INFO: Server Info: Apache Tomcat/10.1.12
+2023-09-04T15:35:34,108-0400 [24064 47] com.newrelic INFO: Host name is SkyPC, display host SkyPC for application demo-actuator-new-relic
+2023-09-04T15:35:34,109-0400 [24064 47] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2023-09-04T15:35:34,502-0400 [24064 47] com.newrelic INFO: Collector redirection to collector.newrelic.com:443
+2023-09-04T15:35:34,678-0400 [24064 47] com.newrelic INFO: Max payload size is 1?000?000 bytes
+2023-09-04T15:35:34,678-0400 [24064 47] com.newrelic INFO: Agent run id: BWSZJE-q8576AC2uRCIx9LNk9jHcAAIBAAAnIQEAAF4AAgQiMfQJAwAFOC41LjAABVNreVBDABdkZW1vLWFjdHVhdG9yLW5ldy1yZWxpYw
+2023-09-04T15:35:34,679-0400 [24064 47] com.newrelic INFO: Agent 24064@SkyPC/demo-actuator-new-relic connected to collector.newrelic.com:443
+2023-09-04T15:35:34,679-0400 [24064 47] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2993732/applications/573699081
+2023-09-04T15:35:34,680-0400 [24064 47] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2023-09-04T15:35:34,680-0400 [24064 47] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2023-09-04T15:35:34,680-0400 [24064 47] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2023-09-04T15:35:34,682-0400 [24064 47] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2023-09-04T15:35:34,682-0400 [24064 47] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2023-09-04T15:35:34,682-0400 [24064 47] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2023-09-04T15:35:34,832-0400 [24064 47] com.newrelic INFO: Real user monitoring is enabled for application demo-actuator-new-relic. Auto instrumentation is enabled.
+2023-09-04T15:35:34,832-0400 [24064 47] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2023-09-04T16:00:24,556-0400 [27384 1] com.newrelic INFO: Writing to New Relic log file: F:\tutos\numerica_ideas\community\web\spring-boot-actuator-integration-with-new-relic\actuator-new-relic\newrelic\logs\newrelic_agent.log
+2023-09-04T16:00:24,557-0400 [27384 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 17.0.6
+2023-09-04T16:00:24,557-0400 [27384 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 17.0.6+10
+2023-09-04T16:00:24,557-0400 [27384 1] com.newrelic INFO: OS Windows 11 version 10.0 arch amd64
+2023-09-04T16:00:24,557-0400 [27384 1] com.newrelic INFO: Agent Host: SkyPC IP: 192.168.2.90
+2023-09-04T16:00:24,557-0400 [27384 1] com.newrelic INFO: New Relic Agent v8.5.0 is initializing...
+2023-09-04T16:00:25,062-0400 [27384 32] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2023-09-04T16:00:25,866-0400 [27384 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2023-09-04T16:00:26,274-0400 [27384 1] com.newrelic INFO: Setting audit_mode to false
+2023-09-04T16:00:26,469-0400 [27384 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is F:\tutos\numerica_ideas\community\web\spring-boot-actuator-integration-with-new-relic\actuator-new-relic\newrelic\.\newrelic.yml
+2023-09-04T16:00:26,475-0400 [27384 1] com.newrelic INFO: New Relic Agent v8.5.0 has started
+2023-09-04T16:00:26,475-0400 [27384 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7d907bac
+2023-09-04T16:00:26,475-0400 [27384 1] com.newrelic INFO: Premain startup complete in 2?686ms
+2023-09-04T16:00:26,477-0400 [27384 1] com.newrelic WARN: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2023-09-04T16:00:29,975-0400 [27384 1] com.newrelic INFO: Server Info: Apache Tomcat/10.1.12
+2023-09-04T16:00:31,489-0400 [27384 47] com.newrelic INFO: Host name is SkyPC, display host SkyPC for application demo-actuator-new-relic
+2023-09-04T16:00:31,492-0400 [27384 47] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2023-09-04T16:00:31,959-0400 [27384 47] com.newrelic INFO: Collector redirection to collector.newrelic.com:443
+2023-09-04T16:00:32,167-0400 [27384 47] com.newrelic INFO: Max payload size is 1?000?000 bytes
+2023-09-04T16:00:32,167-0400 [27384 47] com.newrelic INFO: Agent run id: BXGZDNXJiv_LAC2uRCIx9LNk9je4AAIBAAAnIQEAAGr4AgQiMfQJAwAFOC41LjAABVNreVBDABdkZW1vLWFjdHVhdG9yLW5ldy1yZWxpYw
+2023-09-04T16:00:32,168-0400 [27384 47] com.newrelic INFO: Agent 27384@SkyPC/demo-actuator-new-relic connected to collector.newrelic.com:443
+2023-09-04T16:00:32,168-0400 [27384 47] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2993732/applications/573699081
+2023-09-04T16:00:32,169-0400 [27384 47] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2023-09-04T16:00:32,169-0400 [27384 47] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2023-09-04T16:00:32,169-0400 [27384 47] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2023-09-04T16:00:32,171-0400 [27384 47] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2023-09-04T16:00:32,171-0400 [27384 47] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2023-09-04T16:00:32,171-0400 [27384 47] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2023-09-04T16:00:32,464-0400 [27384 47] com.newrelic INFO: Real user monitoring is enabled for application demo-actuator-new-relic. Auto instrumentation is enabled.
+2023-09-04T16:00:32,464-0400 [27384 47] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2023-09-04T16:39:15,651-0400 [27384 70] com.newrelic INFO: A socket exception was encountered while sending data to New Relic (java.net.SocketException: Connection reset). Please check your network / proxy settings.
+2023-09-05T09:26:44,532-0400 [27384 70] com.newrelic INFO: A socket exception was encountered while sending data to New Relic (java.net.SocketException: Connection reset). Please check your network / proxy settings.
+2023-09-05T10:00:40,934-0400 [27384 70] com.newrelic INFO: A socket exception was encountered while sending data to New Relic (java.net.SocketException: Connection reset). Please check your network / proxy settings.
+2023-09-05T13:26:33,685-0400 [27384 70] com.newrelic INFO: A socket exception was encountered while sending data to New Relic (java.net.SocketException: Connection reset). Please check your network / proxy settings.
